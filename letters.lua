@@ -1,3 +1,4 @@
+-- All those cool letters
 noSayBlacklist.Core.SmartLetters = {
 	["a"] = {"@", "4"},
 	["c"] = {"¢"},
